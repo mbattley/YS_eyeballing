@@ -1,5 +1,5 @@
 # YS_eyeballing
-Eyeballing code for use with YSD pipeline
+Eyeballing code for use with YSD pipeline. If you use this code for your work (or the YSD pipeline), please cite Battley, Pollacco & Armstrong (2020).
 
 Script to generate eyeballing plots for a set of previously detrended light-curves detrended using the YSD pipeline. Also allows for eyeballing notes to be collated on a target by target basis.
 
